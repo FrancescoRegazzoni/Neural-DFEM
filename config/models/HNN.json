@@ -1,0 +1,16 @@
+{
+    "model": "HyperelasticNN", 
+    "params": {
+        "dim": 3,
+        "num_neurons": [5],
+        "skip_connections": false,
+        "activation": "softplus",
+        "pos_transformation": "softplus",
+        "iso_invariants": false,
+        "bulk_type": "linear-log",
+        "stiff_factor": 10.0,
+        "init_factor": 0.1,
+        "init_bulk": 0,
+        "seed": 2
+    }
+}

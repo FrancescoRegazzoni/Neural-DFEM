@@ -1,0 +1,8 @@
+{
+    "model": "MooneyRivlin",
+    "params": {
+        "C1": 1.0,
+        "C2": 0.8,
+        "K": 1.0
+    }
+}

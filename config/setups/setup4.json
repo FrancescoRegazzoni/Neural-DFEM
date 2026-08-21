@@ -1,0 +1,6 @@
+{
+    "dim": 3,
+    "test_case" : "cube_corner_hole",
+    "test_case_options" : {"h": 0.05},
+    "loads" : [0.1, 0.2, 0.3, 0.4, 0.5]
+}
