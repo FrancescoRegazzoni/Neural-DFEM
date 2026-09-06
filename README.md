@@ -1,6 +1,6 @@
 # Neural-DFEM
 
-This repository contains the code required to reproduce the results presented in the paper _Hyperelastic constitutive model discovery with differentiable finite elements and structure-preserving neural networks_.
+This repository contains the code required to reproduce the results presented in the paper [_Hyperelastic constitutive model discovery with differentiable finite elements and structure-preserving neural networks_](#reference).
 
 ## Requirements
 
@@ -96,4 +96,6 @@ The predicted displacement fields and reaction forces can finally be compared wi
 
 ## Reference
 
-F. Regazzoni, [*Hyperelastic constitutive model discovery with differentiable finite elements and structure-preserving neural networks*](https://arxiv.org/abs/2603.26517), arXiv preprint arXiv:2603.26517, 2026.
+F. Regazzoni, "Hyperelastic constitutive model discovery with differentiable finite elements and structure-preserving neural networks", _Computational Mechanics_, 2026.
+
+[Journal article](https://doi.org/10.1007/s00466-026-02850-2) | [arXiv preprint](https://arxiv.org/abs/2603.26517)
